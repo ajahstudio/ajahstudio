@@ -12,7 +12,7 @@ My hobbies include: Gaming 🎮, Reading 📖, Gardening 🧑🏾‍🌾, Work-o
 - ⚡ Fun fact: I am enthusiastic about space sci-fi movies and books.
 
 ### 🛠 &nbsp; Tech Stack
-<div align="center">
+<div align="center" style="background-color:#ffffff;">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="50" height="50"/>
@@ -43,6 +43,9 @@ My hobbies include: Gaming 🎮, Reading 📖, Gardening 🧑🏾‍🌾, Work-o
 </div>
 
 ### ⚙️ &nbsp; GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ajahstudio&count_private=true&theme=radical&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajahstudio&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ajahstudio">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajahstudio&show_icons=true&theme=merko&include_all_commits&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajahstudio&show_icons=true&theme=merko&include_all_commits&count_private=true"/>
+</a>
+
 
