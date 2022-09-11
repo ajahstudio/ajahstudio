@@ -46,7 +46,7 @@ My hobbies include: Gaming 🎮, Reading 📖, Gardening 🧑🏾‍🌾, Work-o
 <div>
   <a href="https://github.com/ajahstudio">
     <img src="https://github-readme-stats.vercel.app/api?username=ajahstudio&show_icons=true&theme=merko&include_all_commits&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajahstudio&show_icons=true&theme=merko&include_all_commits&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajahstudio&show_icons=true&theme=merko&include_all_commits&count_private=true"/>
   </a>
 </div>
 
