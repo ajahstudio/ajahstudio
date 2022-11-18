@@ -1,6 +1,11 @@
+
+<p align="center"> Visitor Counter 🕵🏼</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ajahstudio}/count.svg" alt="Visitor's Count" /></p>
+<hr>
+
 ### Hello World, I am Ajah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-I'm a fullstack developer interested in daunting prograsmming tasks and challenges. I have vast knowledge in Html, Css, Javascript, Php, Mysql, Node.js, Typescript, React Native, Electron, NextJs, Python and lots more... I'm also a profesional Graphics Designer, Animator, Video Editor, and Artist.
+I'm a fullstack developer interested in daunting programming tasks and challenges. I have vast knowledge in Html, Css, Javascript, Php, Mysql, Node.js, Typescript, React Native, Electron, NextJs, Python and lots more... I'm also a profesional Graphics Designer, Animator, Video Editor, and Artist.
 My hobbies include: Gaming 🎮, Reading 📖, Gardening 🧑🏾‍🌾, Work-out 🏋🏾, Bing-Watching 📺 among other things.
 
 - 🔭 I’m currently working on Artificial Imteligence and Machine Learning.
@@ -43,14 +48,19 @@ My hobbies include: Gaming 🎮, Reading 📖, Gardening 🧑🏾‍🌾, Work-o
 </div>
 
 ### ⚙️ &nbsp; GitHub Stats
-<div>
+<!-- <div>
   <a href="https://github.com/ajahstudio">
     <img src="https://github-readme-stats.vercel.app/api?username=ajahstudio&show_icons=true&theme=merko&include_all_commits&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajahstudio&show_icons=true&theme=merko&include_all_commits&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajahstudio&show_icons=true&theme=merko&include_all_commits&count_private=true"/>
   </a>
-</div>
+</div> -->
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ajahstudio&color=blueviolet&style=flat">
-</div>
 
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkmehmetguler&show_icons=true&locale=en&layout=compact" alt="berkmehmetguler" /></p> -->
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajahstudio&show_icons=true&locale=en&theme=merko&include_all_commits&count_private=true" alt="ajahstudio" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajahstudio&theme=merko&include_all_commits&count_private=true" alt="ajahstudio" />
+</p>
+
+<p></p>
