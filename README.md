@@ -25,8 +25,6 @@ My hobbies include: Gaming 🎮, Reading 📖, Gardening 🧑🏾‍🌾, Work-o
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="" width="50" height="50"/>
@@ -39,8 +37,6 @@ My hobbies include: Gaming 🎮, Reading 📖, Gardening 🧑🏾‍🌾, Work-o
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/coreldraw-gs2019-2.svg" alt="" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="" width="50" height="50"/>
